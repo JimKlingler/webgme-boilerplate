@@ -1,7 +1,7 @@
 {
   "name": "webgme-boilerplate",
   "version": "0.1.0",
-  "description": "Boilerplate code to use webgme as a library",
+  "description": "Boilerplate code to use webgme as a library for me.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
